@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+    a) adaptive has multiple complete formats, responsive just changes certain parts to work on other platforms.
+
 2. Describe what it means to be mobile first vs desktop first.
+
+    a) you design the site as a mobile site first and then adapt the desktop site to the mobile site
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+    a) it makes it become a multiple of 10. ex 14pt is 1.4 em.
+
 4. How would you describe preprocessing to someone new to CSS?
 
+    a) preprocessing converts you hierarchical html style into css.
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+    a) favorite is that i can write it in a hierarchy format. most trouble is is just the shere amount. 
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
